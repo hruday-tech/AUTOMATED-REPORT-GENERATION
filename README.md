@@ -69,3 +69,7 @@ HR dashboards
 Financial and departmental reporting
 
 Automated data insights in business environments
+
+![Image](https://github.com/user-attachments/assets/3defc59c-d880-4631-9576-870ef4d8ad87)
+
+![Image](https://github.com/user-attachments/assets/8afabe3a-64f2-4935-b384-d2466c175d30)
